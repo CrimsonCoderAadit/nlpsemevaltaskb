@@ -1,0 +1,20 @@
+# Large model files
+*.npy
+*.joblib
+*.parquet
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+*.swp
+
+# Outputs
+*.csv
+!sample_submission.csv
